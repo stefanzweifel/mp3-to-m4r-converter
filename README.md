@@ -6,7 +6,7 @@
 
 Notice: You must have `ffmpeg` installed on your system! You can install it with [homebrew](http://brew.sh): `brew install ffmpeg`.
 
-- Download this repo or clone it (`git clone `)
+- Download this repo or clone it (`git clone https://github.com/stefanzweifel/mp3-to-m4r-converter.git`)
 - Copy your source mp3-files into thte `src`-directory
 - Open a terminal and change to the repository-folder (`mp3-to-m4r-converter`)
 - Execute converter with the command `sh converter.sh`
